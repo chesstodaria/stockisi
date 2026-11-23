@@ -1,11 +1,11 @@
 {
-    "name": "stockisi",
-    "short_name": "stockisi",
+    "name": "Stockisi",
+    "short_name": "Stockisi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Stockisi - aplikasi gudang untuk operator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

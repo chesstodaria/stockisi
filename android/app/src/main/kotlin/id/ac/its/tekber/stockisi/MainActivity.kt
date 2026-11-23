@@ -1,4 +1,4 @@
-package com.example.stockisi
+package id.ac.its.tekber.stockisi
 
 import io.flutter.embedding.android.FlutterActivity
 
